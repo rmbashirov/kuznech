@@ -1,0 +1,1 @@
+python py/deep_dream.py images/lena.png images/lena
